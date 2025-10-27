@@ -1,16 +1,20 @@
-# local_auth
+# 🔐 Biometric Auth Example
 
-A new Flutter project.
+A simple Flutter app demonstrating biometric authentication (Fingerprint & Face ID) using the **`local_auth`** package.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Features
+- Fingerprint authentication  
+- Face ID support (if available)  
+- Clear success/failure messages  
+- Clean architecture (UI separated from logic using `BiometricAuthService`)
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 📱 Screenshots
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+| <img src="https://github.com/user-attachments/assets/3a0ce381-e95a-4727-b479-b192f06e8a4f" width="250"> | <img src="https://github.com/user-attachments/assets/d1f638da-b119-4f5f-862f-4094d90b5398" width="250"> |
+
+> Make sure to place your screenshots inside a folder named **`screenshots`** in the root of the project.
+
